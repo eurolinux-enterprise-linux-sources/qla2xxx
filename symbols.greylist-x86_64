@@ -1,0 +1,11 @@
+blk_queue_update_dma_alignment
+fc_block_scsi_eh
+fc_get_event_number
+fc_host_post_event
+fc_vport_create
+fc_vport_terminate
+pcie_capability_read_dword
+pcie_capability_read_word
+pci_get_domain_bus_and_slot
+strim
+usleep_range
